@@ -35,4 +35,4 @@ cmake-*
 # PlatformIO
 .pio
 
-.vscode/launch.json
+.vscode
